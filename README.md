@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Ewerton! ☕
 
-<!--
-**Ewerton-Bruno12/Ewerton-Bruno12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Java em formação | Buscando minha primeira oportunidade como Dev Backend
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Construindo um **Sistema de Biblioteca em Java**
+
+- 📚 Estudando POO, Collections e Streams
+
+- 🎯 Próximos passos: JDBC, Spring Boot
+
+---
+
+### Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ewerton-bruno/)
