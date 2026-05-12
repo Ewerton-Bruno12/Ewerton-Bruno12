@@ -1,23 +1,28 @@
-### Olá, eu sou o Ewerton! ☕
+# 🧑‍💻 Estagiário Desenvolvedor Back-end Java
 
-Desenvolvedor Java em formação | Buscando minha primeira oportunidade como Dev Backend
+Me chamo Ewerton Bruno da Silva Santos e sou natural de Diadema - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul (FATEC SCS). Sou entusiasta de tecnologia com foco em desenvolvimento back-end e busco constantemente me aprimorar. Compartilho meus projetos e códigos, como o sistema de gerenciamento de biblioteca em Java, através do meu GitHub, focado em aplicar a lógica de programação na prática.
 
----
+<br>
 
-- 📚 Estudando POO, Collections e Streams
-
-- 🎯 Próximos passos: JDBC, Spring Boot
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-bruno/)
 
 ---
 
-### Tecnologias
+## 🛠️ Linguagens e ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
 ---
 
-### Contato
+## 📊 Estatísticas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ewerton-bruno/)
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ewerton-Bruno12&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Ewerton"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewerton-Bruno12&layout=compact&langs_count=5&theme=dark&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
