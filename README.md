@@ -1,10 +1,23 @@
-<h1 align="center">Olá, me chamo Ewerton Bruno</h1>
-<h3 align="center">Estudante Desenvolvedor Back-end Java</h3>
+# 🧑‍💻 Estagiário Desenvolvedor Back-end Java
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ewerton-bruno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ewerton-bruno/" height="30" width="40" /></a>
+Me chamo Ewerton Bruno da Silva Santos e sou natural de Diadema - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul (FATEC SCS). Sou entusiasta de tecnologia com foco em desenvolvimento back-end e busco constantemente me aprimorar. Compartilho meus projetos e códigos, como o sistema de gerenciamento de biblioteca em Java, através do meu GitHub, focado em aplicar a lógica de programação na prática.
+
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-bruno/)
+
+---
+
+## 🛠️ Linguagens e ferramentas
+
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---## 📊 Estatísticas
+![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ewerton-Bruno12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewerton-Bruno12&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br)
