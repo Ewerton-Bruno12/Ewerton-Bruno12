@@ -3,6 +3,7 @@
 Me chamo Ewerton Bruno da Silva Santos e sou natural de Diadema - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul (FATEC SCS). Sou entusiasta de tecnologia com foco em desenvolvimento back-end e busco constantemente me aprimorar. Compartilho meus projetos e códigos, como o sistema de gerenciamento de biblioteca em Java, através do meu GitHub, focado em aplicar a lógica de programação na prática.
 
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-bruno/)
 
 ---
