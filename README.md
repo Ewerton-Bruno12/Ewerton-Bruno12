@@ -1,56 +1,19 @@
-<div align="center">
+# 🧑‍💻 Estagiário Desenvolvedor Back-end Java
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ewerton+%F0%9F%91%8B;EEstagi%C3%A1rio+Desenvolvedor+Back-end+Javaa;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+Me chamo Ewerton Bruno da Silva Santos e sou natural de Diadema - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul (FATEC SCS). Sou entusiasta de tecnologia com foco em desenvolvimento back-end e busco constantemente me aprimorar. Compartilho meus projetos e códigos, como o sistema de gerenciamento de biblioteca em Java, através do meu GitHub, focado em aplicar a lógica de programação na prática.
 
-</div>
+<br>
 
-<h1 align="center">🎓 Estagiário Desenvolvedor Back-end Java</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-bruno/)
 
-<p align="center">
-Me chamo <b>Ewerton Bruno da Silva Santos</b> e sou natural de Diadema - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <b>FATEC São Caetano do Sul (FATEC SCS)</b>. Sou entusiasta de tecnologia com foco em desenvolvimento back-end e busco constantemente me aprimorar.
+---
+
+## 🛠️ Linguagens e ferramentas
+
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ewerton-bruno" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ewerton12042006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Ewerton-Bruno12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<hr>
-
-<h2 align="center">🛠️ Linguagens e ferramentas</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<hr>
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ewerton-Bruno12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewerton-Bruno12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr>
-
-<h2 align="center">📌 Projeto em destaque</h2>
-
-<p align="center">
-📚 <b>Sistema de Gerenciamento de Biblioteca</b> — projeto em Java aplicando lógica de programação, estruturação de dados e boas práticas de back-end.
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=footer"/>
-</div>
