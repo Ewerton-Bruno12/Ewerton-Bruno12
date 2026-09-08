@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ewerton+%F0%9F%91%8B;Estagi%C3%A1rio+Desenvolvedor+Back-end+Java;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ewerton+%F0%9F%91%8B;EEstagi%C3%A1rio+Desenvolvedor+Back-end+Javaa;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -20,18 +20,6 @@ Me chamo <b>Ewerton Bruno da Silva Santos</b> e sou natural de Diadema - SP. Atu
   <a href="https://github.com/Ewerton-Bruno12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<hr>
-
-<h2 align="center">💼 Work</h2>
-
-<p>
-🔭 <b>I'm currently working on:</b> Sistema de Gerenciamento de Biblioteca (Java)<br>
-👯 <b>I'm looking to collaborate on:</b> projetos back-end em Java e Spring Boot<br>
-🌱 <b>I'm currently learning:</b> Spring Boot, PostgreSQL e Python<br>
-💬 <b>Ask me about:</b> Java, back-end e desenvolvimento de sistemas<br>
-📫 <b>How to reach me:</b> ewerton12042006@gmail.com
 </p>
 
 <hr>
