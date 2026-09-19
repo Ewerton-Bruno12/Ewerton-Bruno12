@@ -79,9 +79,3 @@ API REST desenvolvida com **Java + Spring Boot** para gerenciamento de contatos,
 <a href="https://github.com/Ewerton-Bruno12">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<i>"Código bom é código que outra pessoa entende."</i>
-
-</div>
