@@ -69,14 +69,6 @@ API REST desenvolvida com **Java + Spring Boot** para gerenciamento de contatos,
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ewerton-Bruno12&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
