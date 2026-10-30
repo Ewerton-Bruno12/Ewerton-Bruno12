@@ -59,13 +59,13 @@ Meu principal projeto é o **Sistema de Cadastro de Contatos**, uma **API REST**
 
 ## 🚀 Projeto em destaque
 
-### 📇 Sistema de Cadastro de Contatos
+### 📅 Sistema de Agendamentos API
 
-API REST desenvolvida com **Java + Spring Boot** para gerenciamento de contatos, aplicando boas práticas de arquitetura back-end, tratamento de exceções, validação e persistência de dados.
+API REST completa desenvolvida com **Java 21** e **Spring Boot**, projetada para o gerenciamento inteligente de clientes, serviços e agendamentos. O projeto aplica conceitos modernos de arquitetura, com isolamento de camadas usando DTOs (`records`), validações rigorosas e prevenção de conflitos de horários.
 
-**Stack:** `Java` • `Spring Boot` • `JPA/Hibernate` • `MySQL`
+**Stack:** `Java 21` • `Spring Boot` • `Spring Data JPA` • `MySQL` • `Swagger` • `Lombok`
 
-🔗 [Ver repositório](https://github.com/Ewerton-Bruno12/cadastro-de-contatos)
+🔗 [Ver repositório](https://github.com/Ewerton-Bruno12/sistema-de-agendamentos)
 
 ---
 
